@@ -1,0 +1,11 @@
+dm_control
+imageio
+imageio-ffmpeg
+absl-py
+pyparsing
+torch
+torchvision
+gym==0.25.2
+numpy==1.19.0
+tb-nightly
+termcolor
